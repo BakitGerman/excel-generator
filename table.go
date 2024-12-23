@@ -1,4 +1,4 @@
-package excel
+package excel-generator
 
 import (
 	"github.com/xuri/excelize/v2"
