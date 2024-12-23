@@ -1,4 +1,4 @@
-package excel
+package excel-generator
 
 import (
 	"strconv"
